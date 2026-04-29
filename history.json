@@ -1,1 +1,13 @@
-[]
+[
+  {
+    "collected_at": "2026-04-29T15:10:43Z",
+    "total": 66,
+    "sources": [
+      "clien",
+      "dcinside",
+      "ohu",
+      "ppomppu"
+    ],
+    "signal_count": 6
+  }
+]
