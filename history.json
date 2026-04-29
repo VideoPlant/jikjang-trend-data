@@ -1,5 +1,16 @@
 [
   {
+    "collected_at": "2026-04-29T15:55:01Z",
+    "total": 40,
+    "posts_with_comments": 0,
+    "sources": [
+      "dcinside",
+      "ohu"
+    ],
+    "signal_count": 5,
+    "collection_mode": "search_v2"
+  },
+  {
     "collected_at": "2026-04-29T15:10:43Z",
     "total": 66,
     "sources": [
