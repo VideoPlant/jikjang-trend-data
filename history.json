@@ -1,5 +1,18 @@
 [
   {
+    "collected_at": "2026-04-29T16:01:11Z",
+    "total": 80,
+    "posts_with_comments": 6,
+    "sources": [
+      "clien",
+      "dcinside",
+      "ohu",
+      "ppomppu"
+    ],
+    "signal_count": 6,
+    "collection_mode": "search_v2"
+  },
+  {
     "collected_at": "2026-04-29T16:00:25Z",
     "total": 80,
     "posts_with_comments": 3,
