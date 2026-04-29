@@ -6,34 +6,55 @@
     "likes": 0,
     "comments": 0,
     "body_excerpt": "",
-    "top_comments": [],
+    "top_comments": [
+      {
+        "text": "뭐냐이건wwww",
+        "likes": 0
+      },
+      {
+        "text": "연봉과 관련된 사진이 뭔가요",
+        "likes": 0
+      },
+      {
+        "text": "내 연봉이 얼마인지 공개하는덴가요?",
+        "likes": 0
+      },
+      {
+        "text": "로리로리로리로리로리로리로리로리로리",
+        "likes": 0
+      },
+      {
+        "text": "연봉 갤러리",
+        "likes": 0
+      }
+    ],
     "category": "연봉갤",
     "source": "dcinside",
-    "collected_at": "2026-04-29T15:56:18.844801"
+    "collected_at": "2026-04-29T15:59:32.724514"
   },
   {
     "title": "세전 5220인데 카푸어야?",
     "url": "https://m.dcinside.com/board/salary/7975",
-    "views": 1285,
+    "views": 1287,
     "likes": 0,
     "comments": 0,
     "body_excerpt": "",
     "top_comments": [],
     "category": "연봉갤",
     "source": "dcinside",
-    "collected_at": "2026-04-29T15:56:18.845212"
+    "collected_at": "2026-04-29T15:59:32.724954"
   },
   {
     "title": "연봉 오른거 실수령액 계산해보니 현타 오네..",
     "url": "https://m.dcinside.com/board/salary/7974",
-    "views": 224,
+    "views": 225,
     "likes": 1,
     "comments": 0,
     "body_excerpt": "",
     "top_comments": [],
     "category": "연봉갤",
     "source": "dcinside",
-    "collected_at": "2026-04-29T15:56:18.845386"
+    "collected_at": "2026-04-29T15:59:32.725144"
   },
   {
     "title": "38.세전5640.인생이 너무 빡세다",
@@ -45,55 +66,60 @@
     "top_comments": [],
     "category": "연봉갤",
     "source": "dcinside",
-    "collected_at": "2026-04-29T15:56:18.845540"
+    "collected_at": "2026-04-29T15:59:32.725312"
   },
   {
     "title": "지방 중소 연봉 어떰",
     "url": "https://m.dcinside.com/board/salary/7971",
-    "views": 199,
+    "views": 200,
     "likes": 0,
     "comments": 0,
     "body_excerpt": "",
     "top_comments": [],
     "category": "연봉갤",
     "source": "dcinside",
-    "collected_at": "2026-04-29T15:56:18.845678"
+    "collected_at": "2026-04-29T15:59:32.725461"
   },
   {
     "title": "31세 경력 편돌이야간 4년",
     "url": "https://m.dcinside.com/board/salary/7969",
-    "views": 237,
+    "views": 238,
     "likes": 0,
     "comments": 0,
     "body_excerpt": "",
-    "top_comments": [],
+    "top_comments": [
+      {
+        "text": "이걸 고민하는게 진심 한심하노;;",
+        "likes": 0
+      }
+    ],
     "category": "연봉갤",
     "source": "dcinside",
-    "collected_at": "2026-04-29T15:56:18.845816"
+    "collected_at": "2026-04-29T15:59:32.725623"
   },
   {
     "title": "안녕하세요 26살남 냉정한 평가 부탁드립니다.",
     "url": "https://m.dcinside.com/board/salary/7967",
-    "views": 454,
+    "views": 455,
     "likes": 0,
     "comments": 0,
     "body_excerpt": "",
     "top_comments": [],
     "category": "연봉갤",
     "source": "dcinside",
-    "collected_at": "2026-04-29T15:56:18.845948"
+    "collected_at": "2026-04-29T15:59:32.725779"
   },
   {
     "title": "26살 1년차 세전300 좆소따리 이직준비중인데",
     "url": "https://m.dcinside.com/board/salary/7965",
-    "views": 256,
+    "views": 259,
     "likes": 0,
     "comments": 0,
     "body_excerpt": "",
     "top_comments": [],
     "category": "연봉갤",
     "source": "dcinside",
-    "collected_at": "2026-04-29T15:56:18.846079"
+    "collected_at": "2026-04-29T15:59:32.725931"
   },
   {
     "title": "일본 이주 인생 평가좀 ㅠㅠ",
@@ -105,7 +131,7 @@
     "top_comments": [],
     "category": "연봉갤",
     "source": "dcinside",
-    "collected_at": "2026-04-29T15:56:18.846205"
+    "collected_at": "2026-04-29T15:59:32.726070"
   },
   {
     "title": "90년생 37살 학원강사",
@@ -117,7 +143,7 @@
     "top_comments": [],
     "category": "연봉갤",
     "source": "dcinside",
-    "collected_at": "2026-04-29T15:56:18.846386"
+    "collected_at": "2026-04-29T15:59:32.726228"
   },
   {
     "title": "안녕하세요 97년생 남자 평가부탁합니다.",
@@ -129,7 +155,7 @@
     "top_comments": [],
     "category": "연봉갤",
     "source": "dcinside",
-    "collected_at": "2026-04-29T15:56:18.846524"
+    "collected_at": "2026-04-29T15:59:32.726387"
   },
   {
     "title": "일반 사무직 10년차",
@@ -141,7 +167,7 @@
     "top_comments": [],
     "category": "연봉갤",
     "source": "dcinside",
-    "collected_at": "2026-04-29T15:56:18.846651"
+    "collected_at": "2026-04-29T15:59:32.726541"
   },
   {
     "title": "작년 6600 올해 7800 인데",
@@ -153,7 +179,7 @@
     "top_comments": [],
     "category": "연봉갤",
     "source": "dcinside",
-    "collected_at": "2026-04-29T15:56:18.846782"
+    "collected_at": "2026-04-29T15:59:32.726683"
   },
   {
     "title": "공장 교대근무",
@@ -165,43 +191,48 @@
     "top_comments": [],
     "category": "연봉갤",
     "source": "dcinside",
-    "collected_at": "2026-04-29T15:56:18.846915"
+    "collected_at": "2026-04-29T15:59:32.726821"
   },
   {
     "title": "이런 경우 주6일 근무 연봉 3000 어떤가요?",
     "url": "https://m.dcinside.com/board/salary/7940",
-    "views": 687,
+    "views": 689,
     "likes": 0,
     "comments": 0,
     "body_excerpt": "",
     "top_comments": [],
     "category": "연봉갤",
     "source": "dcinside",
-    "collected_at": "2026-04-29T15:56:18.847040"
+    "collected_at": "2026-04-29T15:59:32.726959"
   },
   {
     "title": "인천 인하공전 교수 연봉 얼마정도 할것같음?",
     "url": "https://m.dcinside.com/board/salary/7938",
-    "views": 645,
+    "views": 647,
     "likes": 0,
     "comments": 0,
     "body_excerpt": "",
-    "top_comments": [],
+    "top_comments": [
+      {
+        "text": "연차마다 다르고 대학수준마다 다름 초임 조교수는 내가알기론 5000~6000정도 이고 10년이상 굴러서 정교수 되면 8000~1억정도 되고 1억 근처 가면 찔끔찔끔 오르거나 거의 동결로 알고 있음 sky 정도 아니면",
+        "likes": 0
+      }
+    ],
     "category": "연봉갤",
     "source": "dcinside",
-    "collected_at": "2026-04-29T15:56:18.847165"
+    "collected_at": "2026-04-29T15:59:32.727095"
   },
   {
     "title": "97년생 29살 평가좀",
     "url": "https://m.dcinside.com/board/salary/7933",
-    "views": 945,
+    "views": 946,
     "likes": 0,
     "comments": 0,
     "body_excerpt": "",
     "top_comments": [],
     "category": "연봉갤",
     "source": "dcinside",
-    "collected_at": "2026-04-29T15:56:18.847289"
+    "collected_at": "2026-04-29T15:59:32.727234"
   },
   {
     "title": "식품공장 생산직 4개월차 급여 20일근무",
@@ -213,7 +244,7 @@
     "top_comments": [],
     "category": "연봉갤",
     "source": "dcinside",
-    "collected_at": "2026-04-29T15:56:18.847413"
+    "collected_at": "2026-04-29T15:59:32.727369"
   },
   {
     "title": "30대중후반 4800  평타치임?",
@@ -225,7 +256,7 @@
     "top_comments": [],
     "category": "연봉갤",
     "source": "dcinside",
-    "collected_at": "2026-04-29T15:56:18.847537"
+    "collected_at": "2026-04-29T15:59:32.727506"
   },
   {
     "title": "좀 재수 없을수 있는데",
@@ -237,43 +268,523 @@
     "top_comments": [],
     "category": "연봉갤",
     "source": "dcinside",
-    "collected_at": "2026-04-29T15:56:18.847660"
+    "collected_at": "2026-04-29T15:59:32.727653"
+  },
+  {
+    "title": "소방시설투자를 너무 안하고, 노동자들만 잡혀가겠네요.",
+    "url": "https://www.clien.net/service/board/park/19168219",
+    "views": 1636,
+    "likes": 0,
+    "comments": 5,
+    "body_excerpt": "",
+    "top_comments": [],
+    "category": "자유게시판",
+    "source": "clien",
+    "collected_at": "2026-04-29T15:59:35.824651"
+  },
+  {
+    "title": "직장내에서 선임때문에 살인충동이 일어나고 있는데 신고해야할까요???",
+    "url": "https://www.clien.net/service/board/park/19159536",
+    "views": 4115,
+    "likes": 0,
+    "comments": 25,
+    "body_excerpt": "",
+    "top_comments": [],
+    "category": "자유게시판",
+    "source": "clien",
+    "collected_at": "2026-04-29T15:59:35.825182"
+  },
+  {
+    "title": "요즘 개인 생각이 없고 gpt에 자아의탁하는 사람이 많네요",
+    "url": "https://www.clien.net/service/board/park/19123151",
+    "views": 17000,
+    "likes": 0,
+    "comments": 64,
+    "body_excerpt": "",
+    "top_comments": [],
+    "category": "자유게시판",
+    "source": "clien",
+    "collected_at": "2026-04-29T15:59:35.825704"
+  },
+  {
+    "title": "“오빠…” 도지사 직인 찍힌 공문 시·군에 배포…내용은 연애 문자?",
+    "url": "https://www.clien.net/service/board/park/19115484",
+    "views": 12300,
+    "likes": 0,
+    "comments": 38,
+    "body_excerpt": "",
+    "top_comments": [],
+    "category": "자유게시판",
+    "source": "clien",
+    "collected_at": "2026-04-29T15:59:35.826286"
+  },
+  {
+    "title": ".강호필.‘尹, 한동훈 같은 배신자는.절단해야 된다’..",
+    "url": "https://www.clien.net/service/board/park/19113128",
+    "views": 2227,
+    "likes": 0,
+    "comments": 1,
+    "body_excerpt": "",
+    "top_comments": [],
+    "category": "자유게시판",
+    "source": "clien",
+    "collected_at": "2026-04-29T15:59:35.826821"
+  },
+  {
+    "title": "한동훈.“윤석열이 나를 업어 키웠다고? 개똥같은 소리”",
+    "url": "https://www.clien.net/service/board/park/19112224",
+    "views": 2007,
+    "likes": 0,
+    "comments": 6,
+    "body_excerpt": "",
+    "top_comments": [],
+    "category": "자유게시판",
+    "source": "clien",
+    "collected_at": "2026-04-29T15:59:35.827345"
+  },
+  {
+    "title": "뇌출혈 5개월차..그리고 산재..",
+    "url": "https://www.clien.net/service/board/park/19107000",
+    "views": 20700,
+    "likes": 0,
+    "comments": 56,
+    "body_excerpt": "",
+    "top_comments": [],
+    "category": "자유게시판",
+    "source": "clien",
+    "collected_at": "2026-04-29T15:59:35.827868"
+  },
+  {
+    "title": "카카오톡, 친구위치 확인기능 개선",
+    "url": "https://www.clien.net/service/board/park/19095997",
+    "views": 6127,
+    "likes": 0,
+    "comments": 24,
+    "body_excerpt": "",
+    "top_comments": [],
+    "category": "자유게시판",
+    "source": "clien",
+    "collected_at": "2026-04-29T15:59:35.828426"
+  },
+  {
+    "title": "그건 내주에나 될것 같아요.",
+    "url": "https://www.clien.net/service/board/park/19079849",
+    "views": 5372,
+    "likes": 0,
+    "comments": 55,
+    "body_excerpt": "",
+    "top_comments": [],
+    "category": "자유게시판",
+    "source": "clien",
+    "collected_at": "2026-04-29T15:59:35.828950"
+  },
+  {
+    "title": "“상사 얼굴 4시간째 안 사라져” 카톡, 역풍 직격탄",
+    "url": "https://www.clien.net/service/board/park/19069015",
+    "views": 10700,
+    "likes": 0,
+    "comments": 16,
+    "body_excerpt": "",
+    "top_comments": [],
+    "category": "자유게시판",
+    "source": "clien",
+    "collected_at": "2026-04-29T15:59:35.829462"
+  },
+  {
+    "title": "카톡 업데이트 소감 소름돋는 반응 ㄷㄷㄷㄷㄷㄷ.txt",
+    "url": "https://www.clien.net/service/board/park/19069013",
+    "views": 12000,
+    "likes": 0,
+    "comments": 10,
+    "body_excerpt": "",
+    "top_comments": [],
+    "category": "자유게시판",
+    "source": "clien",
+    "collected_at": "2026-04-29T15:59:35.829986"
+  },
+  {
+    "title": "조용히 술 마시고 싶어 개인실이 있는 이자카야로 갔더니만",
+    "url": "https://www.clien.net/service/board/park/19068964",
+    "views": 5779,
+    "likes": 0,
+    "comments": 2,
+    "body_excerpt": "",
+    "top_comments": [],
+    "category": "자유게시판",
+    "source": "clien",
+    "collected_at": "2026-04-29T15:59:35.830545"
+  },
+  {
+    "title": "카톡 업데이트, 저 같은 사람도 있습니다",
+    "url": "https://www.clien.net/service/board/park/19068952",
+    "views": 7238,
+    "likes": 0,
+    "comments": 38,
+    "body_excerpt": "",
+    "top_comments": [],
+    "category": "자유게시판",
+    "source": "clien",
+    "collected_at": "2026-04-29T15:59:35.831078"
+  },
+  {
+    "title": "카톡 업데이트 최악이네요.",
+    "url": "https://www.clien.net/service/board/park/19068792",
+    "views": 7755,
+    "likes": 0,
+    "comments": 11,
+    "body_excerpt": "",
+    "top_comments": [],
+    "category": "자유게시판",
+    "source": "clien",
+    "collected_at": "2026-04-29T15:59:35.831655"
+  },
+  {
+    "title": "돌잔치와 몽클패딩 이야기..",
+    "url": "https://www.clien.net/service/board/park/19060256",
+    "views": 3133,
+    "likes": 0,
+    "comments": 4,
+    "body_excerpt": "",
+    "top_comments": [],
+    "category": "자유게시판",
+    "source": "clien",
+    "collected_at": "2026-04-29T15:59:35.832208"
+  },
+  {
+    "title": "제가 강선우 의원에 대해 궁금한 것은 하나입니다.",
+    "url": "https://www.clien.net/service/board/park/19023632",
+    "views": 8034,
+    "likes": 0,
+    "comments": 50,
+    "body_excerpt": "",
+    "top_comments": [],
+    "category": "자유게시판",
+    "source": "clien",
+    "collected_at": "2026-04-29T15:59:35.832768"
+  },
+  {
+    "title": "2찍은 세뇌이자 신념이자 문화이자 종교입니다.",
+    "url": "https://www.clien.net/service/board/park/19005588",
+    "views": 2097,
+    "likes": 0,
+    "comments": 2,
+    "body_excerpt": "",
+    "top_comments": [],
+    "category": "자유게시판",
+    "source": "clien",
+    "collected_at": "2026-04-29T15:59:35.833290"
+  },
+  {
+    "title": "펨코 같은 사이트가 무서운 이유",
+    "url": "https://www.clien.net/service/board/park/18990877",
+    "views": 36100,
+    "likes": 0,
+    "comments": 46,
+    "body_excerpt": "",
+    "top_comments": [],
+    "category": "자유게시판",
+    "source": "clien",
+    "collected_at": "2026-04-29T15:59:35.833815"
+  },
+  {
+    "title": "카카오톡은 이제 진짜 할일이 없나 봅니다",
+    "url": "https://www.clien.net/service/board/park/18977897",
+    "views": 32299,
+    "likes": 0,
+    "comments": 58,
+    "body_excerpt": "",
+    "top_comments": [],
+    "category": "자유게시판",
+    "source": "clien",
+    "collected_at": "2026-04-29T15:59:35.834346"
+  },
+  {
+    "title": "[중앙일보 염병📰] '얼맙니까?' 술값 다 냈다…스폰서 물먹인 초임 한동훈",
+    "url": "https://www.clien.net/service/board/park/18961258",
+    "views": 3965,
+    "likes": 0,
+    "comments": 8,
+    "body_excerpt": "",
+    "top_comments": [],
+    "category": "자유게시판",
+    "source": "clien",
+    "collected_at": "2026-04-29T15:59:35.834846"
+  },
+  {
+    "title": "레전드신입이력서",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&page=1&divpage=1853&search_type=subject&keyword=%EC%8B%A0%EC%9E%85&no=9923004",
+    "views": 1104,
+    "likes": 0,
+    "comments": 0,
+    "body_excerpt": "",
+    "top_comments": [],
+    "category": "자유게시판",
+    "source": "ppomppu",
+    "collected_at": "2026-04-29T15:59:38.999071"
+  },
+  {
+    "title": "프롬프트 절대 공유안하는신입고민 ㄷㄷ.jpg",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&page=1&divpage=1853&search_type=subject&keyword=%EC%8B%A0%EC%9E%85&no=9919342",
+    "views": 22033,
+    "likes": 3,
+    "comments": 0,
+    "body_excerpt": "",
+    "top_comments": [],
+    "category": "자유게시판",
+    "source": "ppomppu",
+    "collected_at": "2026-04-29T15:59:38.999203"
+  },
+  {
+    "title": "현재)직장인 커뮤 난리난 프롬프트를 절대 공유 안하는신입ㄷ.JPG",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&page=1&divpage=1853&search_type=subject&keyword=%EC%8B%A0%EC%9E%85&no=9916902",
+    "views": 3682,
+    "likes": 0,
+    "comments": 0,
+    "body_excerpt": "",
+    "top_comments": [],
+    "category": "자유게시판",
+    "source": "ppomppu",
+    "collected_at": "2026-04-29T15:59:38.999379"
+  },
+  {
+    "title": "목덜미 잡아 올리고, 엉덩이 가격..신입여직원 숨지게 한 상사 \"장난이었다\"",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&page=1&divpage=1853&search_type=subject&keyword=%EC%8B%A0%EC%9E%85&no=9911181",
+    "views": 2002,
+    "likes": 1,
+    "comments": 0,
+    "body_excerpt": "",
+    "top_comments": [],
+    "category": "자유게시판",
+    "source": "ppomppu",
+    "collected_at": "2026-04-29T15:59:38.999509"
+  },
+  {
+    "title": "대기업 1년차신입인데 일이 없어요.jpg",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&page=1&divpage=1853&search_type=subject&keyword=%EC%8B%A0%EC%9E%85&no=9910597",
+    "views": 2605,
+    "likes": 0,
+    "comments": 0,
+    "body_excerpt": "",
+    "top_comments": [],
+    "category": "자유게시판",
+    "source": "ppomppu",
+    "collected_at": "2026-04-29T15:59:38.999614"
+  },
+  {
+    "title": "요즘신입들 자기 불편함 있으면 입부터 나오네요",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&page=1&divpage=1853&search_type=subject&keyword=%EC%8B%A0%EC%9E%85&no=9907082",
+    "views": 1036,
+    "likes": 0,
+    "comments": 0,
+    "body_excerpt": "",
+    "top_comments": [],
+    "category": "자유게시판",
+    "source": "ppomppu",
+    "collected_at": "2026-04-29T15:59:38.999719"
+  },
+  {
+    "title": "신입공무원 퇴사를 막기위한 조치 ㄷㄷ..jpg",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&page=1&divpage=1853&search_type=subject&keyword=%EC%8B%A0%EC%9E%85&no=9905381",
+    "views": 25249,
+    "likes": 11,
+    "comments": 0,
+    "body_excerpt": "",
+    "top_comments": [],
+    "category": "자유게시판",
+    "source": "ppomppu",
+    "collected_at": "2026-04-29T15:59:38.999842"
+  },
+  {
+    "title": "신입사원 고민, \"팀장님이 손톱을 깎아줘요\"",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&page=1&divpage=1853&search_type=subject&keyword=%EC%8B%A0%EC%9E%85&no=9905346",
+    "views": 2861,
+    "likes": 0,
+    "comments": 0,
+    "body_excerpt": "",
+    "top_comments": [],
+    "category": "자유게시판",
+    "source": "ppomppu",
+    "collected_at": "2026-04-29T15:59:38.999950"
+  },
+  {
+    "title": "간섭하는 부장님과 이해 안가는신입ㄷ..jpg",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&page=1&divpage=1853&search_type=subject&keyword=%EC%8B%A0%EC%9E%85&no=9904305",
+    "views": 2561,
+    "likes": 0,
+    "comments": 0,
+    "body_excerpt": "",
+    "top_comments": [],
+    "category": "자유게시판",
+    "source": "ppomppu",
+    "collected_at": "2026-04-29T15:59:39.000051"
+  },
+  {
+    "title": "간섭하는 부장 vs 이해안가는신입",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&page=1&divpage=1853&search_type=subject&keyword=%EC%8B%A0%EC%9E%85&no=9903050",
+    "views": 1422,
+    "likes": 0,
+    "comments": 0,
+    "body_excerpt": "",
+    "top_comments": [],
+    "category": "자유게시판",
+    "source": "ppomppu",
+    "collected_at": "2026-04-29T15:59:39.000149"
+  },
+  {
+    "title": "2026년도신입사원 이력서 레전드.jpg",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&page=1&divpage=1853&search_type=subject&keyword=%EC%8B%A0%EC%9E%85&no=9900778",
+    "views": 1866,
+    "likes": 0,
+    "comments": 0,
+    "body_excerpt": "",
+    "top_comments": [],
+    "category": "자유게시판",
+    "source": "ppomppu",
+    "collected_at": "2026-04-29T15:59:39.000247"
+  },
+  {
+    "title": "신입사원 이력서 레전. ㄷㄷ",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&page=1&divpage=1853&search_type=subject&keyword=%EC%8B%A0%EC%9E%85&no=9900020",
+    "views": 3130,
+    "likes": 0,
+    "comments": 0,
+    "body_excerpt": "",
+    "top_comments": [],
+    "category": "자유게시판",
+    "source": "ppomppu",
+    "collected_at": "2026-04-29T15:59:39.000350"
+  },
+  {
+    "title": "SNL피부과 mz신입",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&page=1&divpage=1853&search_type=subject&keyword=%EC%8B%A0%EC%9E%85&no=9899984",
+    "views": 2152,
+    "likes": 0,
+    "comments": 0,
+    "body_excerpt": "",
+    "top_comments": [],
+    "category": "자유게시판",
+    "source": "ppomppu",
+    "collected_at": "2026-04-29T15:59:39.000446"
+  },
+  {
+    "title": "2026년신입사원 이력서 레전드",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&page=1&divpage=1853&search_type=subject&keyword=%EC%8B%A0%EC%9E%85&no=9899785",
+    "views": 20486,
+    "likes": 2,
+    "comments": 0,
+    "body_excerpt": "",
+    "top_comments": [],
+    "category": "자유게시판",
+    "source": "ppomppu",
+    "collected_at": "2026-04-29T15:59:39.000549"
+  },
+  {
+    "title": "(기사)IT통신 산업의 대기업중견기업의신입채용 공고 수는 전년 동월 대비 7...",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&page=1&divpage=1853&search_type=subject&keyword=%EC%8B%A0%EC%9E%85&no=9899278",
+    "views": 893,
+    "likes": 0,
+    "comments": 0,
+    "body_excerpt": "",
+    "top_comments": [],
+    "category": "자유게시판",
+    "source": "ppomppu",
+    "collected_at": "2026-04-29T15:59:39.000647"
+  },
+  {
+    "title": "올해 3월 대기업중견기업 정보기술(IT) 산업신입채용 공고가 73% 급감한 것...",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&page=1&divpage=1853&search_type=subject&keyword=%EC%8B%A0%EC%9E%85&no=9899045",
+    "views": 602,
+    "likes": 0,
+    "comments": 0,
+    "body_excerpt": "",
+    "top_comments": [],
+    "category": "자유게시판",
+    "source": "ppomppu",
+    "collected_at": "2026-04-29T15:59:39.000742"
+  },
+  {
+    "title": "신입이 원하는 회사복지 ㄷㄷ..jpg",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&page=1&divpage=1853&search_type=subject&keyword=%EC%8B%A0%EC%9E%85&no=9898882",
+    "views": 2426,
+    "likes": 0,
+    "comments": 0,
+    "body_excerpt": "",
+    "top_comments": [],
+    "category": "자유게시판",
+    "source": "ppomppu",
+    "collected_at": "2026-04-29T15:59:39.000848"
+  },
+  {
+    "title": "요즘)신입한테 인사하라 하면 꼰대인가요 ㄷㄷ.jpg",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&page=1&divpage=1853&search_type=subject&keyword=%EC%8B%A0%EC%9E%85&no=9893207",
+    "views": 1212,
+    "likes": 0,
+    "comments": 0,
+    "body_excerpt": "",
+    "top_comments": [],
+    "category": "자유게시판",
+    "source": "ppomppu",
+    "collected_at": "2026-04-29T15:59:39.000949"
+  },
+  {
+    "title": "회사 입사시신입사원에게 챙겨주는 웰컴키트 jpg",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&page=1&divpage=1853&search_type=subject&keyword=%EC%8B%A0%EC%9E%85&no=9890912",
+    "views": 3355,
+    "likes": 0,
+    "comments": 0,
+    "body_excerpt": "",
+    "top_comments": [],
+    "category": "자유게시판",
+    "source": "ppomppu",
+    "collected_at": "2026-04-29T15:59:39.001048"
+  },
+  {
+    "title": "당당한신입사원의 논리.ㄷㄷ",
+    "url": "https://www.ppomppu.co.kr/zboard/view.php?id=freeboard&page=1&divpage=1853&search_type=subject&keyword=%EC%8B%A0%EC%9E%85&no=9889643",
+    "views": 2166,
+    "likes": 0,
+    "comments": 0,
+    "body_excerpt": "",
+    "top_comments": [],
+    "category": "자유게시판",
+    "source": "ppomppu",
+    "collected_at": "2026-04-29T15:59:39.001151"
   },
   {
     "title": "아내랑 잘 맞아서 행복한 사람",
     "url": "https://www.todayhumor.co.kr/board/view.php?table=bestofbest&no=482762&s_no=482762&page=1",
-    "views": 3940,
+    "views": 3970,
     "likes": 51,
     "comments": 0,
     "body_excerpt": "",
     "top_comments": [],
     "category": "베오베",
     "source": "ohu",
-    "collected_at": "2026-04-29T15:56:49.574620"
+    "collected_at": "2026-04-29T15:59:41.662813"
   },
   {
     "title": "어느 치과 의사의 고백",
     "url": "https://www.todayhumor.co.kr/board/view.php?table=bestofbest&no=482761&s_no=482761&page=1",
-    "views": 3631,
+    "views": 3661,
     "likes": 53,
     "comments": 0,
     "body_excerpt": "",
     "top_comments": [],
     "category": "베오베",
     "source": "ohu",
-    "collected_at": "2026-04-29T15:56:49.574800"
+    "collected_at": "2026-04-29T15:59:41.662965"
   },
   {
     "title": "MBC ‘추경호 클로징 멘트’에 국힘 “사과 안 하면 취재 거부”···‘",
     "url": "https://www.todayhumor.co.kr/board/view.php?table=bestofbest&no=482760&s_no=482760&page=1",
-    "views": 2087,
-    "likes": 52,
+    "views": 2117,
+    "likes": 53,
     "comments": 0,
     "body_excerpt": "",
     "top_comments": [],
     "category": "베오베",
     "source": "ohu",
-    "collected_at": "2026-04-29T15:56:49.574953"
+    "collected_at": "2026-04-29T15:59:41.663102"
   },
   {
     "title": "문제해결 방법) 베이징 도서관 학생의 문제제기",
@@ -285,7 +796,7 @@
     "top_comments": [],
     "category": "베오베",
     "source": "ohu",
-    "collected_at": "2026-04-29T15:56:49.575103"
+    "collected_at": "2026-04-29T15:59:41.663240"
   },
   {
     "title": "만기출소 10일도 안 남았다는 운동선수.jpg",
@@ -297,7 +808,7 @@
     "top_comments": [],
     "category": "베오베",
     "source": "ohu",
-    "collected_at": "2026-04-29T15:56:49.575255"
+    "collected_at": "2026-04-29T15:59:41.663376"
   },
   {
     "title": "뭔가 이상한 청주동물원 늑대 이름",
@@ -309,7 +820,7 @@
     "top_comments": [],
     "category": "베오베",
     "source": "ohu",
-    "collected_at": "2026-04-29T15:56:49.575408"
+    "collected_at": "2026-04-29T15:59:41.663514"
   },
   {
     "title": "물리 교수님이 수능 모의고사를 풀어보고 놀란 이유",
@@ -321,7 +832,7 @@
     "top_comments": [],
     "category": "베오베",
     "source": "ohu",
-    "collected_at": "2026-04-29T15:56:49.575565"
+    "collected_at": "2026-04-29T15:59:41.663647"
   },
   {
     "title": "어제자 잠실야구장 참사 ΦΦ",
@@ -333,7 +844,7 @@
     "top_comments": [],
     "category": "베오베",
     "source": "ohu",
-    "collected_at": "2026-04-29T15:56:49.575711"
+    "collected_at": "2026-04-29T15:59:41.663790"
   },
   {
     "title": "야스쿠니에 ‘독도는 우리땅’ 현수막 내건 한국인, 日경찰에 체포",
@@ -345,7 +856,7 @@
     "top_comments": [],
     "category": "베오베",
     "source": "ohu",
-    "collected_at": "2026-04-29T15:56:49.575861"
+    "collected_at": "2026-04-29T15:59:41.663925"
   },
   {
     "title": "양궁 국가대표 선발전 1위",
@@ -357,7 +868,7 @@
     "top_comments": [],
     "category": "베오베",
     "source": "ohu",
-    "collected_at": "2026-04-29T15:56:49.576005"
+    "collected_at": "2026-04-29T15:59:41.664059"
   },
   {
     "title": "한국 시장에서 차별받은 외국인 아내",
@@ -369,7 +880,7 @@
     "top_comments": [],
     "category": "베오베",
     "source": "ohu",
-    "collected_at": "2026-04-29T15:56:49.576148"
+    "collected_at": "2026-04-29T15:59:41.664195"
   },
   {
     "title": "일만 잘하면 이어폰끼고 일해도 문제없지않음?",
@@ -381,7 +892,7 @@
     "top_comments": [],
     "category": "베오베",
     "source": "ohu",
-    "collected_at": "2026-04-29T15:56:49.576292"
+    "collected_at": "2026-04-29T15:59:41.664328"
   },
   {
     "title": "정신과 의사 10명 중 9명이 강추하는 스트레스 해소법.jpg",
@@ -393,7 +904,7 @@
     "top_comments": [],
     "category": "베오베",
     "source": "ohu",
-    "collected_at": "2026-04-29T15:56:49.576430"
+    "collected_at": "2026-04-29T15:59:41.664458"
   },
   {
     "title": "대장동 떡검 조작 다 드러난 마당에 아닥중인 언론들 잡아죽여야",
@@ -405,7 +916,7 @@
     "top_comments": [],
     "category": "베오베",
     "source": "ohu",
-    "collected_at": "2026-04-29T15:56:49.576569"
+    "collected_at": "2026-04-29T15:59:41.664588"
   },
   {
     "title": "귀신이 그린 그림.",
@@ -417,7 +928,7 @@
     "top_comments": [],
     "category": "베오베",
     "source": "ohu",
-    "collected_at": "2026-04-29T15:56:49.576709"
+    "collected_at": "2026-04-29T15:59:41.664721"
   },
   {
     "title": "화장실 잘 못 들어가 인생 경험한 군인",
@@ -429,7 +940,7 @@
     "top_comments": [],
     "category": "베오베",
     "source": "ohu",
-    "collected_at": "2026-04-29T15:56:49.576855"
+    "collected_at": "2026-04-29T15:59:41.664859"
   },
   {
     "title": "절대로 버스에서 임산부한테 자리양보 안한다는 사람",
@@ -441,7 +952,7 @@
     "top_comments": [],
     "category": "베오베",
     "source": "ohu",
-    "collected_at": "2026-04-29T15:56:49.576997"
+    "collected_at": "2026-04-29T15:59:41.664994"
   },
   {
     "title": "BTS 일본 근황",
@@ -453,7 +964,7 @@
     "top_comments": [],
     "category": "베오베",
     "source": "ohu",
-    "collected_at": "2026-04-29T15:56:49.577139"
+    "collected_at": "2026-04-29T15:59:41.665126"
   },
   {
     "title": "약스압) 유난히도 두꺼운 이불을 좋아하던 엄마.jpg",
@@ -465,7 +976,7 @@
     "top_comments": [],
     "category": "베오베",
     "source": "ohu",
-    "collected_at": "2026-04-29T15:56:49.577277"
+    "collected_at": "2026-04-29T15:59:41.665260"
   },
   {
     "title": "24년동안 물도 못 마신 여자",
@@ -477,6 +988,6 @@
     "top_comments": [],
     "category": "베오베",
     "source": "ohu",
-    "collected_at": "2026-04-29T15:56:49.577439"
+    "collected_at": "2026-04-29T15:59:41.665390"
   }
 ]
