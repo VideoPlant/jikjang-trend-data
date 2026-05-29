@@ -1,5 +1,19 @@
 [
   {
+    "collected_at": "2026-05-29T09:01:05Z",
+    "total": 80,
+    "posts_with_comments": 8,
+    "sources": [
+      "clien",
+      "dcinside",
+      "ohu",
+      "ppomppu"
+    ],
+    "signal_count": 6,
+    "collection_mode": "search_v2",
+    "archive_key": "20260529_0901"
+  },
+  {
     "collected_at": "2026-05-28T09:00:42Z",
     "total": 80,
     "posts_with_comments": 7,
